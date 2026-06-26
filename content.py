@@ -69,7 +69,7 @@ PORTFOLIO_DATA = {
         "title": "Ссылка на мой аккаунт и сам проект GitHub",
         "items": [
             "https://github.com/DarknessTF2",
-            ""
+            "https://github.com/DarknessTF2/-"
         ],
     },
 }
